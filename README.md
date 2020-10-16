@@ -81,7 +81,7 @@ Here's the TLDR:
 
 To use the app, simply go to the web address [Here!](https://oil-spill-danger-detector.herokuapp.com/) and click on the "Let's Detect!" button. You can then interact with the lefthand side slider and the dropdown menu, to see the predictions on the righthand side change. Read through my blog post [Here](https://davidcruz0202.github.io/2020-05-28-Classification-Project/) for insights and processes.
 
-![Interact Page](/Oil-Detector/dropdown and slider.png)
+![Interact Page](/Oil-Detector/dropdown_and_slider.png)
 
 
 <!-- LICENSE -->
