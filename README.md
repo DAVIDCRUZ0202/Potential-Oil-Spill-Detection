@@ -52,26 +52,22 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## NOTE: 
+### This project is no longer ongoing and is serving as a portfolio artifact to showcase my work. 
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+I used ML and software engineering to deploy a live, interactable web app which predicts potential causes of accidents in oil refineries based on location and type of pipeline . I highly recommend reading through my blog post for further details and reflections. You can also read about my other projects there. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Here's the TLDR:
+* ML has a lot of potential in the energy sector. This is an example of
+* If you want to build an app similar to this, check the next section for the tools you'll need
+* To use my app, go [Here!](https://oil-spill-danger-detector.herokuapp.com/)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Plotly](https://dash.plotly.com/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Heroku](www.heroku.com)
 
 
 
@@ -80,10 +76,7 @@ This section should list any major frameworks that you built your project using.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+To use the app, simply go to the web address [Here!](https://oil-spill-danger-detector.herokuapp.com/) and click on the "Let's Detect!" button. You can then interact with the lefthand side slider and the dropdown menu, to see the predictions on the righthand side change. Read through my blog post [Here](https://davidcruz0202.github.io/2020-05-28-Classification-Project/) for insights and processes.
 
 
 <!-- LICENSE -->
@@ -96,9 +89,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+David Cruz - dcman1211@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
