@@ -1,6 +1,7 @@
 
 <!--
-*** To see where I got my template from check this out! 
+*** To see where I got my template from check this out!
+*** https://github.com/rrherr/dash-template
 *** https://github.com/othneildrew/Best-README-Template
 -->
 
@@ -58,6 +59,8 @@
 
 I used ML and software engineering to deploy a live, interactable web app which predicts potential causes of accidents in oil refineries based on location and type of pipeline . I highly recommend reading through my blog post for further details and reflections. You can also read about my other projects there. 
 
+![Pic of App](/Oil-Detector/app_page.png)
+
 Here's the TLDR:
 * ML has a lot of potential in the energy sector. This is an example of
 * If you want to build an app similar to this, check the next section for the tools you'll need
@@ -77,6 +80,8 @@ Here's the TLDR:
 ## Usage
 
 To use the app, simply go to the web address [Here!](https://oil-spill-danger-detector.herokuapp.com/) and click on the "Let's Detect!" button. You can then interact with the lefthand side slider and the dropdown menu, to see the predictions on the righthand side change. Read through my blog post [Here](https://davidcruz0202.github.io/2020-05-28-Classification-Project/) for insights and processes.
+
+![Interact Page]('/Oil-Detector/dropdown and slider.png')
 
 
 <!-- LICENSE -->
