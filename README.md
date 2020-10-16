@@ -32,7 +32,6 @@
   <p align="center">
     Using Classification ML to Research the Topic of Safety!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://oil-spill-danger-detector.herokuapp.com/">View the App</a>
