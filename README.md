@@ -57,7 +57,7 @@
 ## NOTE: 
 ### This project is no longer ongoing and is serving as a portfolio artifact to showcase my work. 
 
-I used ML and software engineering to deploy a live, interactable web app which predicts potential causes of accidents in oil refineries based on location and type of pipeline . I highly recommend reading through my blog post for further details and reflections. You can also read about my other projects there. 
+I used ML and software engineering to deploy a live, interactable web app which predicts potential causes of accidents in oil refineries based on location and type of pipeline . I highly recommend reading through my [blog post](https://davidcruz0202.github.io/2020-05-28-Classification-Project/)for further details and reflections. You can also read about my other projects there. 
 
 ![Pic of App](/Oil-Detector/app_page.png)
 
@@ -92,9 +92,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contact & Credits
 
-David Cruz - dcman1211@gmail.com
+Me - David Cruz - dcman1211@gmail.com
+[Template for the App](https://github.com/rrherr/dash-template)
+[Template for the Readme](https://github.com/othneildrew/Best-README-Template)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
