@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="readmelogo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/DAVIDCRUZ0202/Potential-Oil-Spill-Detection">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"The Oil Spill Danger Detector</h3>
