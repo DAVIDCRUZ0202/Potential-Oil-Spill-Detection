@@ -97,7 +97,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact & Credits
 
 David Cruz - dcman1211@gmail.com
+
 [Template for the App](https://github.com/rrherr/dash-template)
+
 [Template for the Readme](https://github.com/othneildrew/Best-README-Template)
 
 
