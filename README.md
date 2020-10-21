@@ -64,9 +64,9 @@ I used ML and software engineering to deploy a live, interactable web app which 
 ![Pic of App](/Oil-Detector/app_page.png)
 
 Here's the TLDR:
-* ML has a lot of potential in the energy sector. This is an example of
-* If you want to build an app similar to this, check the next section for the tools you'll need
+* ML has a lot of potential in the energy sector.
 * To use my app, go [Here!](https://oil-spill-danger-detector.herokuapp.com/)
+* If you want to build an app similar to this, check the next section for the tools you'll need
 
 
 ### Built With
@@ -96,7 +96,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact & Credits
 
-Me - David Cruz - dcman1211@gmail.com
+David Cruz - dcman1211@gmail.com
 [Template for the App](https://github.com/rrherr/dash-template)
 [Template for the Readme](https://github.com/othneildrew/Best-README-Template)
 
