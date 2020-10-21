@@ -33,7 +33,8 @@
   <p align="center">
     Using Classification ML to Research the Topic of Safety!
     <br />
-  [Read My Blog!](https://davidcruz0202.github.io/2020-05-28-Classification-Project/)
+  [Read My Blog!](https://davidcruz0202.github.io/2020-05-28-Classification-Project/\\)
+  <a href="https://davidcruz0202.github.io/2020-05-28-Classification-Project/">Read My Blog</a>
     <br />
     <br />
     <a href="https://oil-spill-danger-detector.herokuapp.com/">View the App</a>
