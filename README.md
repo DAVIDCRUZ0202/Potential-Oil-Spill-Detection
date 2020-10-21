@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## NOTE: 
-### This project is no longer ongoing and is serving as a portfolio artifact to showcase my work. 
+### This project is no longer actively maintained, but it should still work! 
 
 I used ML and software engineering to deploy a live, interactable web app which predicts potential causes of accidents in oil refineries based on location and type of pipeline . I highly recommend reading through my [blog post](https://davidcruz0202.github.io/2020-05-28-Classification-Project/)for further details and reflections. You can also read about my other projects there. 
 
