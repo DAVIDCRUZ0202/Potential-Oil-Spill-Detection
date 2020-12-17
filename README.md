@@ -25,13 +25,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/DAVIDCRUZ0202/Potential-Oil-Spill-Detection">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="Oil-Detector-images\logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"The Oil Spill Danger Detector</h3>
 
   <p align="center">
-    Using Classification ML to Research the Topic of Safety!
+    Using Classification ML to Research the Topic of Safety
     <br />
   <a href="https://davidcruz0202.github.io/2020-05-28-Classification-Project/">Read My Blog</a>
     <br />
@@ -47,7 +47,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Usage](#usage)
 * [License](#license)
 * [Contact](#contact)
